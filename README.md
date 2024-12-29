@@ -30,7 +30,7 @@ git clone https://github.com/yurievisu/Sky.git
 
 5. Navigate to the project directory:
 ```bash
-cd isha
+cd Sky
 ```
 
 6. Install required Python packages:
